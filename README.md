@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/LuisFer2005Pg/2emib-ac1)
+
 # 2emib-ac1
 projeto de um sistema full stack
 ## Alunos
