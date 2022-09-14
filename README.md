@@ -7,5 +7,3 @@
 <div style="display: inline_block"><br>
   <img align="right" alt="Betta-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/973720821900136479/1019748832269041686/tralhagit.png?width=676&height=676%22%3E
 </div>
-
-  ##
